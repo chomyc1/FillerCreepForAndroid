@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/c/h/chomyc1/StudioProjects/FillerCreepForAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/afs/ualberta.ca/home/c/h/chomyc1/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87cf4eb5de107bd928c07711b44671efe1e36ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/c/h/chomyc1/StudioProjects/FillerCreepForAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1f5fbae2e77c70f0d6c5aeff8b2a890e41075fd5">
+        <dex dex="/afs/ualberta.ca/home/c/h/chomyc1/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2d8d521ccc659745c79bd15fd1d416f989c349c/classes.dex" />
+    </item>
+
+</items>
